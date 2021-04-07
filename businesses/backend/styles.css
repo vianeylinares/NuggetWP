@@ -1,0 +1,15 @@
+/* Business plugin styles */
+
+.option-link-space{
+	width: 100%;
+}
+
+.basic,
+.simple,
+.medium{
+	display: none;
+}
+
+td{
+	vertical-align: top;
+}
